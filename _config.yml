@@ -18,14 +18,16 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-pagination:
-  enabled: true
-  debug: false
-  collections: 'posts'
-  per_page: 5
-  permalink: '/page/:num/'
+# pagination:
+#   enabled: true
+#   debug: false
+#   collections: 'posts'
+#   per_page: 5
+#   paginate_path: '/page/:num/'
 
-plugins: [jekyll-paginate-v2]
+plugins: [jekyll-paginate]
+
+paginate: 5
 
 # Custom vars
 version:          2.1.0
