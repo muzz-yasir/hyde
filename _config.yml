@@ -10,7 +10,8 @@ permalink:        pretty
 title:            d1scr3te delibe rations 
 tagline:          A personal blog
 description:      non-trivial discretised reflections on a continuous universe. 
-description_line2: "&#x5Ba maths student's attempt at literacy&#x5D"
+description_line2: >
+  [a maths student's attempt at literacy]
 url:              https://muzz-yasir.github.io
 baseurl:          ""
 future: true
