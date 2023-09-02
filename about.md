@@ -16,7 +16,7 @@ If I ever do a PhD (I'm considering) or become a highly accomplished engineer, I
 
 ### Who?
 
-No personal blog-site of a CS graduate today is complete without a lengthy, humble-brag of highly selected achievements and awards (I'll  try make it interesting, infact: ***if you're not looking to hire me, don't bother continuing***). 
+No personal blog-site of a CS graduate today is complete without a lengthy, humble-brag of highly selected achievements and awards (*I'll  try make it interesting*). 
 
 Here is a text-based highlight reel of my life so far:
 
