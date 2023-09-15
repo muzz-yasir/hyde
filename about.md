@@ -2,23 +2,9 @@
 layout: page
 title: 'About'  
 ---
-### Why?
-
-Hey, my name is Mustafa (Moose). I've just graduated in [Discrete Mathematics](https://warwick.ac.uk/fac/sci/dcs/admissions/undergraduate/dm/) from the University of Warwick and my motivations behind this blog come from my envy of the highly literate people I've met along the way.
-
-I'm a big believer in the idea that my degree, for better or worse, has hardwired the way I process the world around me - through aggressive development in the areas of logic and reason, combined with equal regression in the skills of literacy and nuance. This blog is an attempt to work on this imbalance and provide some form of entertaintment to myself and those around me in the process. 
-
-### What?
-
-I'm not sure. I just want to get better at writing really. I'd like this to sound like a stream-of-consciousness interview with myself, purposely hyperlinked on my CV to give prospective employers a more expressive picture of myself. 
-
-If I ever do a PhD (I'm considering) or become a highly accomplished engineer, I may craft this into a much more professional, minimalist style showcase describing my technical passions and interests. For now however, I don't have enough clout to brand myself using 7 vague words in irritably small print, concentrated against the backdrop of a dynamic network animation (you know the type of site, I hope).
-
 ### Who?
 
-No personal blog-site of a CS graduate today is complete without a lengthy, humble-brag of highly selected achievements and awards (*I'll  try make it interesting*). 
-
-Here is a text-based highlight reel of my life so far:
+Mustafa Yasir, Warwick Discrete Mathematics graduate and aspiring owner of a cool website. Here is a reductive humble-brag of highly selected moments in my life: 
 
 * I grew up in the Middle East, between Kuwait and Abu Dhabi, before moving to Scotland at 14 years old.
 * I did a gap-year working in cafes, bars, hotels and eventually the Civil Service, to save up for a trip across South East Asia where I **climbed [Mera Peak](https://en.wikipedia.org/wiki/Mera_Peak) (6646m)** via the North Face.
@@ -30,9 +16,15 @@ Here is a text-based highlight reel of my life so far:
 * I **backpacked across the Phillipines** after graduating, presented my paper at [KDD23](https://kdd.org/kdd2023/) in Los Angeles and went on a **1300 mile train journey** across the west coast to Seattle.
 
 
-__Let's talk!__ If you've stumbled upon this page I already want to know about you and who you are. I only loathe unfamiliar LinkedIn requests when they lead to nothing at all; not even a slightly awkward, transactional phone call where we dance around the elephant of referrals and how best to exploit each other. Hence, do get in [touch](mailto:mustafa.y36@gmail.com) for a chat.
+### Why?
 
+I'm a big believer in the idea that my degree, for better or worse, has hardwired the way I process the world around me - through aggressive development in the areas of logic and reason, combined with equal regression in the skills of literacy and nuance. This blog is an attempt to work on this imbalance and provide some form of entertaintment to myself and those around me in the process. 
 
+### What?
+
+Numerous half-baked thoughts that I've developed over the past few years, bear with me whilst I slowly formulate these and learn how to write better. I just want to get better at writing really. Additionally, I'd like this to sound like a interview with myself, purposely hyperlinked on my CV to give prospective employers a more expressive picture of myself. 
+
+__Let's talk!__ If you've stumbled upon this page I already want to know about you and who you are. I only loathe unfamiliar LinkedIn requests when they lead to nothing at all. Hence, get in [touch](mailto:mustafa.y36@gmail.com) for a chat.
 
 <!-- ### What am I going to write about?
 
