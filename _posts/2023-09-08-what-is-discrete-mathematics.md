@@ -47,4 +47,6 @@ Whilst this simple formulation birthed the entire field of Graph Theory - a foun
 
 I began writing this and found myself slipping into an entire review of my degree and my life over the past four years, before realising that it probably deserves its own post entirely. 
 
+<!-- insert what I actually studied most interesting, most boring, review of Warwick >
+
 
