@@ -17,12 +17,12 @@ I'm a research assistant at the Alan Turing Institute, in the AI for Cyber Defen
 # Publications
 
 - Environment Complexity and Cooperation in a Sequential Social Dilemma
-    - * **Mustafa Yasir**, Andrew Howes, Vasilios Mavroudis, Chris Hicks*
-    - *17th European Workshop on Reinforecement Learning (EWRL)*, [arXiv:2408.02148](https://arxiv.org/pdf/2408.02148)
+    -_**Mustafa Yasir**, Andrew Howes, Vasilios Mavroudis, Chris Hicks_
+    -_*17th European Workshop on Reinforecement Learning (EWRL)*, [arXiv:2408.02148](https://arxiv.org/pdf/2408.02148)_
 
 - Examining the Effects of Degree Distribution and Homophily in Graph Learning Models
-    - * **Mustafa Yasir**, John Palowitch, Anton Tsitsulin, Long Tran-Thanh, Bryan Perozzi*
-    - *3rd Annual Workshop on Graph Learning Benchmarks, ACM SIGKDD 2023*, [arXiv:2307.08881](https://arxiv.org/pdf/2307.08881), [Blog Post](https://warwick.ac.uk/fac/sci/dcs/news/?newsItem=8a1785d78a655cce018a6ab11fda2380)
+    -_**Mustafa Yasir**, John Palowitch, Anton Tsitsulin, Long Tran-Thanh, Bryan Perozzi_
+    -_3rd Annual Workshop on Graph Learning Benchmarks, ACM SIGKDD 2023, [arXiv:2307.08881](https://arxiv.org/pdf/2307.08881), [Blog Post](https://warwick.ac.uk/fac/sci/dcs/news/?newsItem=8a1785d78a655cce018a6ab11fda2380)_
 
 
 
