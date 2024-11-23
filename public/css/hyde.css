@@ -85,6 +85,23 @@ html {
   font-size: 2.25rem;
 }
 
+@keyframes blink {
+  0% { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+#typing-title::after {
+  content: '|';
+  animation: blink 0.7s infinite;
+}
+
+/* Add new styles for the typing effect */
+.sidebar-about h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
@@ -254,3 +271,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+

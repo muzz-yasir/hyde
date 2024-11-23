@@ -7,7 +7,8 @@
       <br> <br>
       <h1>
         <a href="{{ site.url }}">
-          {{ site.title }}
+          <!-- {{ site.title }} -->
+          <span id="typing-title"></span>
         </a>
       </h1>
       <p class="lead" id="linebreaker">{{ site.description }}
@@ -55,3 +56,20 @@
     <p>&copy; Mustafa Yasir {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+  const text = "discrete deliberations";
+  const typingTitle = document.getElementById('typing-title');
+  let i = 0;
+
+  function typeWriter() {
+    if (i < text.length) {
+      typingTitle.innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 100); // Adjust typing speed here
+    }
+  }
+
+  typeWriter();
+});
+</script>
